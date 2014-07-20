@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Cubed Engine
+Implementation-Version: Alpha-0.2
+
